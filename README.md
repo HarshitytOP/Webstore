@@ -1,2 +1,2 @@
 # Webstore
-Webstore od my site
+Webstore of my site
